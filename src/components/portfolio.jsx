@@ -59,7 +59,7 @@ export default class Portfolio extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">This website!</a></h3>
-											<span>My website here was deployed using github pages which is uses simple git commands to upadate the website quickly and it is also free. It uses a colorlib template for the styling icons were found free online.</span>
+											<span>My website here was deployed using github pages which is uses simple git commands to upadate the website quickly and it is also free. It uses a colorlib template for the styling icons were found free online. It uses a bit of react </span>
 										</div>
 									</div>
 								</div>
@@ -69,7 +69,7 @@ export default class Portfolio extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Chat App!</a></h3>
-											<span>Simple react app for chatting with other users. Designed for mobile phones also PWA approved</span>
+											<span>Simple react app for chatting with other users allows for multiple users to be in one chatroom. Designed for mobile phones also Progressive Web Application approved. It is deployed using heroku which is a free cloud platform </span>
 											<p className="icon">
 												<span><a href="https://twoods-chatroom.herokuapp.com/"><i className="icon-world2" /> Website</a></span>											
 											</p>
