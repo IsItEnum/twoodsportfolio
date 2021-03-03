@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/thomasportfolio/precache-manifest.da2ad3c92833ec05ab6bc9563d53b27a.js"
+  "/twoodsportfolio/precache-manifest.6e8afbf4fcd9f2fdea2fb5b230662c79.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/thomasportfolio/index.html", {
+workbox.routing.registerNavigationRoute("/twoodsportfolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
