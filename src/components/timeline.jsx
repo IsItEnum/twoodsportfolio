@@ -22,7 +22,18 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Compuer Programming Analyst at Fanshawe College <span>2016-2019</span></h2>
-                        <p>I recently graduated from Fanshawes program where I finished with a 3.8 GPA getting the deans honour roll in my final 3 semesters.</p>
+                        <p>I recently graduated from Fanshawes program where I finished with a 3.8 GPA getting the deans honour roll in my final three semesters. During these three years I developed many programs some of which are demonstrated below others include, Full stack web appliactions, Phone apps using java and googles MLKit.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-book" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Format Industries Final Line Team Member <span>2018</span></h2>
+                        <p>During the off semester I worked at format Industries where I helped to create the frame for large trucks. This job helped me become a more independant and effective member of a team. Also it has helped me immensely with my problem solving skills as you were typically working on only a certain part of the line but were expected to solve your own problems fast enough to ensure the line kept moving.</p> 
                       </div>
                     </div>
                   </article>
