@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+<<<<<<< HEAD
+=======
+
+
+.animate-box { opacity: 1 !important; }
+>>>>>>> 09b3279 (Refactor code structure and remove redundant changes for improved clarity and maintainability)
